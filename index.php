@@ -5,6 +5,6 @@
     <title>Christina</title>
   </head>
   <body>
-    <img src="/images/hello_kitty.png"alt="my hello kitty picture">
-  </body>
+    <img src="/images/hello_kitty.png"alt="my hello kitty picture from github">
+  </body> 
 </html>
